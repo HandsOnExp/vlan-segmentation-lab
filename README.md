@@ -8,7 +8,8 @@ Design and configure:
 - Test connectivity across VLANs
 
 ## 🛠️ Topology
-![Topology](images/basic topology.PNG)
+![Topology]<img width="858" height="540" alt="basic topology" src="https://github.com/user-attachments/assets/ac133d6e-14ec-4f54-bab0-e2556cb4d5ad" />
+
 
 Devices:
 - Router: R1
@@ -29,7 +30,8 @@ Devices:
 
 ## ✅ Testing
 All devices can ping each other across VLANs.
-![Ping Test](images/ping success between different VLANs.PNG)
+![Ping Test]<img width="685" height="753" alt="ping success between different VLANs" src="https://github.com/user-attachments/assets/c054a361-be2f-4926-975f-a8b86e2047a5" />
+
 
 ## 💾 File
 - `vlan-lab.pkt`: Packet Tracer file
